@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9800034.img">
+    <imgdir name="info">
+        <imgdir name="skill">
+            <imgdir name="0">
+                <int name="skill" value="126"/>
+                <int name="action" value="1"/>
+                <int name="level" value="1"/>
+                <int name="effectAfter" value="0"/>
+            </imgdir>
+        </imgdir>
+        <int name="partyBonusMob" value="1"/>
+        <int name="firstAttack" value="1"/>
+        <string name="link" value="5100005"/>
+        <int name="level" value="73"/>
+        <int name="bodyAttack" value="1"/>
+        <int name="maxHP" value="520000"/>
+        <int name="maxMP" value="72000"/>
+        <int name="speed" value="-70"/>
+        <int name="PADamage" value="495"/>
+        <int name="PDDamage" value="185"/>
+        <int name="PDRate" value="20"/>
+        <int name="MADamage" value="512"/>
+        <int name="MDDamage" value="215"/>
+        <int name="MDRate" value="20"/>
+        <int name="acc" value="160"/>
+        <int name="eva" value="39"/>
+        <int name="pushed" value="700"/>
+        <float name="fs" value="10.0"/>
+        <int name="boss" value="1"/>
+        <int name="exp" value="3754"/>
+        <int name="summonType" value="1"/>
+        <int name="category" value="1"/>
+        <string name="elemAttr" value="F2I3"/>
+        <string name="mobType" value="10N"/>
+        <imgdir name="attack">
+            <imgdir name="0">
+                <int name="action" value="1"/>
+                <int name="attackRatio" value="100"/>
+                <int name="type" value="1"/>
+            </imgdir>
+        </imgdir>
+    </imgdir>
+</imgdir>

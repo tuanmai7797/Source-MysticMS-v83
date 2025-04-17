@@ -1,0 +1,12 @@
+ALTER TABLE `csequipment` ADD `potential4` int(5) NOT NULL DEFAULT '0' AFTER `potential3`;
+ALTER TABLE `csequipment` ADD `potential5` int(5) NOT NULL DEFAULT '0' AFTER `potential4`;
+ALTER TABLE `dueyequipment` ADD `potential4` int(5) NOT NULL DEFAULT '0' AFTER `potential3`;
+ALTER TABLE `dueyequipment` ADD `potential5` int(5) NOT NULL DEFAULT '0' AFTER `potential4`;
+ALTER TABLE `hiredmerchequipment` ADD `potential4` int(5) NOT NULL DEFAULT '0' AFTER `potential3`;
+ALTER TABLE `hiredmerchequipment` ADD `potential5` int(5) NOT NULL DEFAULT '0' AFTER `potential4`;
+ALTER TABLE `inventoryequipment` ADD `potential4` int(5) NOT NULL DEFAULT '0' AFTER `potential3`;
+ALTER TABLE `inventoryequipment` ADD `potential5` int(5) NOT NULL DEFAULT '0' AFTER `potential4`;
+ALTER TABLE `mtsequipment` ADD `potential4` int(5) NOT NULL DEFAULT '0' AFTER `potential3`;
+ALTER TABLE `mtsequipment` ADD `potential5` int(5) NOT NULL DEFAULT '0' AFTER `potential4`;
+ALTER TABLE `mtstransferequipment` ADD `potential4` int(5) NOT NULL DEFAULT '0' AFTER `potential3`;
+ALTER TABLE `mtstransferequipment` ADD `potential5` int(5) NOT NULL DEFAULT '0' AFTER `potential4`;

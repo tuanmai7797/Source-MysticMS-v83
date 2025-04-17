@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9800022.img">
+    <imgdir name="info">
+        <int name="noFlip" value="1"/>
+        <imgdir name="revive">
+            <int name="0" value="9800023"/>
+        </imgdir>
+        <string name="link" value="5220001"/>
+        <int name="level" value="61"/>
+        <int name="bodyAttack" value="1"/>
+        <int name="maxHP" value="236000"/>
+        <int name="maxMP" value="48000"/>
+        <int name="PADamage" value="423"/>
+        <int name="PDDamage" value="120"/>
+        <int name="PDRate" value="20"/>
+        <int name="MADamage" value="399"/>
+        <int name="MDDamage" value="120"/>
+        <int name="MDRate" value="20"/>
+        <int name="acc" value="123"/>
+        <int name="eva" value="29"/>
+        <int name="pushed" value="500"/>
+        <float name="fs" value="10.0"/>
+        <int name="boss" value="1"/>
+        <int name="summonType" value="1"/>
+        <int name="category" value="3"/>
+        <string name="mobType" value="10N"/>
+    </imgdir>
+</imgdir>
